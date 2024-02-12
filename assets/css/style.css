@@ -337,8 +337,9 @@ footer a {
   }
   aside div {
     display: inline-block;
-    width: 33%;
+    width: 33.3%;
     margin-inline: 0;
+    margin-right: -4px;
   }
   footer address {
     padding-inline: 19%;
