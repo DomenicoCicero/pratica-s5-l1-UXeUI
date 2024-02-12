@@ -348,3 +348,9 @@ footer a {
     vertical-align: middle;
   }
 }
+
+@media screen and (min-width: 1200px) {
+  header nav ul {
+    margin-inline-start: 540px;
+  }
+}
